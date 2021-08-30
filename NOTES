@@ -1,0 +1,5 @@
+1. Write code for #artist_name and #artist_name= so an Artist can be retreived from and associated with a Song instance
+2. Write a helper method(display_artist) in app/helpers file
+    If an artist is associted with song, return artist show page
+    If an artist is not associated with the song, return a link to songs edit page - link text Add Artist 
+3. Use helper to display artist on songs#show and songs#index
